@@ -1,0 +1,371 @@
+E:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+E:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+E:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+E:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+E:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+E:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+H:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+H:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+H:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.Message.resources
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+H:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+E:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+E:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+E:\secured\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.Message.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageZulu.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+E:\secured\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+H:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+H:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+H:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+H:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.Message.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageZulu.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+H:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+H:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+H:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Khumi\Documents\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.WelcomeNutri.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2 Max\VO2 Max\bin\Debug\MySql.Data.dll
+F:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+F:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+F:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+F:\Dynitia\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+F:\Dynitia\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.WelcomeNutri.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+F:\Dynitia\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+G:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+G:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+G:\Dynitia\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+G:\Dynitia\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+G:\Dynitia\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+G:\Dynitia\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+G:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+G:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+G:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+G:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+G:\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+G:\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+G:\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+G:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+G:\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+G:\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+G:\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+E:\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+E:\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+E:\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+E:\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2 Max\VO2 Max\bin\Debug\MySql.Data.dll
+H:\important\Anonnymos\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+H:\important\Anonnymos\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+H:\important\Anonnymos\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\MySql.Data.dll
+C:\Users\Minus\Documents\Prototype\VO2 Max\VO2 Max\bin\Debug\MySql.Data.xml
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\MySql.Data.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Khumi\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+E:\VO2Max\VO2 Max\obj\Debug\VO2 Max.exe
+E:\VO2Max\VO2 Max\obj\Debug\VO2 Max.pdb
+E:\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe
+E:\VO2Max\VO2 Max\bin\Debug\VO2 Max.pdb
+E:\VO2Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+E:\VO2Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2Max\VO2 Max\bin\Debug\MySql.Data.xml
+E:\VO2Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+E:\VO2Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+E:\VO2Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+E:\VO2Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+E:\VO2Max\VO2 Max\bin\Debug\MySql.Data.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.pdb
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\bin\Debug\MySql.Data.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Dynitia\Documents\Visual Studio 2015\Projects\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.vomax.resources
+F:\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+F:\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.exe
+F:\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.pdb
+F:\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe.config
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\VO2 Max.exe
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\VO2 Max.pdb
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\MySql.Data.dll
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\bin\Debug\MySql.Data.xml
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.csprojResolveAssemblyReference.cache
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.BMI.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Calculation.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.HeartRate.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.Speed.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Athlete.vomax.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.CoachWelcome.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.TeamRegister.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Coach.ViewAthlete.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.MessageView.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignUp.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.ExtraForms.RegisterView.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.MainSignUp.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Nutritionist.ViewDiet.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Welcome.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.Properties.Resources.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.af-ZA.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2_Max.SignIn.el-GR.resources
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.csproj.GenerateResource.Cache
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\af-ZA\VO2 Max.resources.dll
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\el-GR\VO2 Max.resources.dll
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.exe
+C:\Users\Francis Zungu\Desktop\Design\Project for Systems\latest\VO2Max\VO2 Max\obj\Debug\VO2 Max.pdb

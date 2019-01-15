@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{083FE3A7-669E-4151-9255-5F8AC44B8D14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SkyForce_Sport_Management_System</RootNamespace>
+    <AssemblyName>SkyForce_Sport_Management_System</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Athlete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Athlete.Designer.cs">
+      <DependentUpon>Athlete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasketBall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasketBall.Designer.cs">
+      <DependentUpon>BasketBall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasketBallTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasketBallTournament.Designer.cs">
+      <DependentUpon>BasketBallTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BMI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BMI.Designer.cs">
+      <DependentUpon>BMI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coach.Designer.cs">
+      <DependentUpon>Coach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditAthlete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAthlete.Designer.cs">
+      <DependentUpon>EditAthlete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OperationDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileAthlete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileAthlete.Designer.cs">
+      <DependentUpon>ProfileAthlete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestrictUser.cs" />
+    <Compile Include="Rugby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rugby.Designer.cs">
+      <DependentUpon>Rugby.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RugbyTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RugbyTournament.Designer.cs">
+      <DependentUpon>RugbyTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoccerPlayers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoccerPlayers.Designer.cs">
+      <DependentUpon>SoccerPlayers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoccerTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoccerTournament.Designer.cs">
+      <DependentUpon>SoccerTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SportPage.Designer.cs">
+      <DependentUpon>SportPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TournamentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TournamentDetails.Designer.cs">
+      <DependentUpon>TournamentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateAthleteInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAthleteInfo.Designer.cs">
+      <DependentUpon>UpdateAthleteInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VO2Max.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VO2Max.Designer.cs">
+      <DependentUpon>VO2Max.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePage.Designer.cs">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePageNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePageNew.Designer.cs">
+      <DependentUpon>WelcomePageNew.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Athlete.resx">
+      <DependentUpon>Athlete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasketBall.resx">
+      <DependentUpon>BasketBall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasketBallTournament.resx">
+      <DependentUpon>BasketBallTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BMI.resx">
+      <DependentUpon>BMI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coach.resx">
+      <DependentUpon>Coach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAthlete.resx">
+      <DependentUpon>EditAthlete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileAthlete.resx">
+      <DependentUpon>ProfileAthlete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rugby.resx">
+      <DependentUpon>Rugby.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RugbyTournament.resx">
+      <DependentUpon>RugbyTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoccerPlayers.resx">
+      <DependentUpon>SoccerPlayers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoccerTournament.resx">
+      <DependentUpon>SoccerTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SportPage.resx">
+      <DependentUpon>SportPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TournamentDetails.resx">
+      <DependentUpon>TournamentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAthleteInfo.resx">
+      <DependentUpon>UpdateAthleteInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VO2Max.resx">
+      <DependentUpon>VO2Max.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePageNew.resx">
+      <DependentUpon>WelcomePageNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="OperationDatabaseDataSet.xsc">
+      <DependentUpon>OperationDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OperationDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OperationDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OperationDatabaseDataSet.xss">
+      <DependentUpon>OperationDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UsernameNew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewPassword.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewPassword1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CancelNew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBoxNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBoxRecent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureBoxRecent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon2Useer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CancelNew1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpRecent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Athlete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutUs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instagram.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoSkyFprce1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Athlete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\announcement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\announcement1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sports.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateNewUser.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calc1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker-51211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speaker-51212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoForm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
